@@ -15,5 +15,7 @@ This project shows the use of flex display and basic styling. It features a simp
 1. Clone this repository.
 2. Open `index.html` in your browser to view the static page.
 
-## Screenshot
+## Check it on Nelify :
+
+https://card-css-cd26f8.netlify.app
 
